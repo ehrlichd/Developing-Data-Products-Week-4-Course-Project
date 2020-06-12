@@ -1,0 +1,10 @@
+name: test
+title:
+username:
+account: ehrlichd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2447414
+bundleId: 3262577
+url: https://ehrlichd.shinyapps.io/test/
+when: 1591986360.6681
